@@ -12,17 +12,6 @@ dependencies {
 }
 ```
 
-Tor protects your privacy on the internet by hiding the connection 
-between your Internet address and the services you use. We believe Tor
-is reasonably secure, but please ensure you read the instructions and
-configure it properly. Learn more at https://torproject.org/
-
-## Tor Frequently Asked Questions:
-        
-- https://2019.www.torproject.org/docs/faq
-- https://support.torproject.org/faq/
-
-
 ## How to Build
 
 Please see: https://raw.githubusercontent.com/guardianproject/tor-android/master/BUILD
